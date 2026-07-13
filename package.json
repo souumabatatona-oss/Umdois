@@ -1,0 +1,24 @@
+{
+  "name": "bot-tickets-discord",
+  "version": "1.0.0",
+  "description": "Um bot de Discord com sistema de tickets profissional.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "tickets",
+    "javascript",
+    "nodejs",
+    "discord.js"
+  ],
+  "author": "Sua Equipe Manager",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.16.0",
+    "dotenv": "^16.4.5",
+    "sqlite3": "^5.1.7"
+  }
+}
